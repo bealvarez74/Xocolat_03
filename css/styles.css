@@ -164,12 +164,12 @@ hr {width: 25%;
 .principal_1 {
     margin-top: 80px;
     text-align: center;
-    background-image: url(imagenes/fons_xoco_3.jpg);}
+    background-image: url(../imagenes/fons_xoco_3.jpg);}
 
 .principal_3 {
     height: 600px;
     padding: 10% 5%;
-    background-image: url(imagenes/fons_xoco_4.jpg);}
+    background-image:url(../imagenes/fons_xoco_4.jpg);}
 
 .principal_4 {
     width: 100%;
