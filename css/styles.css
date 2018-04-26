@@ -172,6 +172,7 @@ hr {width: 25%;
     background-image:url(../imagenes/fons_xoco_4.jpg);}
 
 .principal_4 {
+    display:block;
     width: 100%;
    }
 
