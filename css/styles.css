@@ -96,8 +96,9 @@ nav {background-color:#2f100b;
     .navegacion {display: inline;
                  height: 70px;
                  padding-top: 15px;
-                 float: right;
-                 width: 100px;}
+	         padding-right: 15px;
+                 float: right;	  
+                 }
  
     .navegacion ul {text-align: left;}
     
