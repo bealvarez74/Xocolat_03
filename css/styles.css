@@ -97,7 +97,8 @@ nav {background-color:#2f100b;
                  height: 70px;
                  padding-top: 15px;
 	         padding-right: 15px;
-                 float: right;	  
+                 float: right;
+	         width: 80px;
                  }
  
     .navegacion ul {text-align: left;}
